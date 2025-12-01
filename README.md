@@ -86,7 +86,7 @@ More complex models (deeper trees, more estimators) did not improve performance.
 
 * `StockWell_Measuring_the_Financial_Wellness_of_S&P_500_Companies_(_KWK_Machine_Learning_x_Finance_Challenge)_Final_Project.ipynb` – **Main notebook** with code + results
 * `StockWell Measuring the Financial Wellness of the S&P 500 (KWK Machine Learning x Finance Challenge).pdf` – Slide deck for the project
-* 
+  
 ## 🎥 Video Presentation
 
 **▶️ Watch the Presentation:**
