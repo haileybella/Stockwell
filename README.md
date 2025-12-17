@@ -1,6 +1,6 @@
 # StockWell: Measuring the Financial Wellness of S&P 500 Companies
 
-**KWK Machine Learning x Finance Challenge — Final Project**
+**KWK Machine Learning x Goldman Sachs — Final Project**
 **By: Hailey Muñiz**
 
 ## 📌 Overview
@@ -13,7 +13,7 @@ The goal is to create a **simple, transparent Financial Health Score (FHS)** tha
 
 **Can we use machine learning to predict a company’s near-future financial health using a few key indicators such as:**
 
-* EBITDA
+* EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
 * Revenue Growth
 * Current Price
 * Market Capitalization
@@ -94,5 +94,5 @@ https://www.tella.tv/video/stockwell-sandp-500-financial-health-scoring-3-bnoo
 
 ## Acknowledgements
 
-This project was completed for the **KWK Machine Learning x Finance Challenge**.
+This project was completed for the **KWK Machine Learning x Goldman Sachs**.
 Special thanks to mentors, instructors, and open-source resources used throughout the process.
